@@ -123,7 +123,7 @@ const Hero: React.FC = () => {
                 <ArrowRight size={20} />
               </motion.button>
               <motion.a
-                href="/Prachi_Karade_Resume.pdf"
+                href={process.env.PUBLIC_URL + "/Prachi_Karade_Resume.pdf"}
                 download="Prachi_Karade_Resume.pdf"
                 className="btn-secondary inline-flex items-center justify-center"
                 whileHover={{ scale: 1.05 }}
