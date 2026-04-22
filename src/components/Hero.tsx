@@ -196,7 +196,7 @@ const Hero: React.FC = () => {
               >
                 <div className="w-full h-full rounded-full bg-gradient-to-br from-dark-secondary to-dark-tertiary flex items-center justify-center border-2 border-primary/30 overflow-hidden">
                   <img 
-                    src="/profile.jpeg" 
+                    src={process.env.PUBLIC_URL + "/profile.jpeg"} 
                     alt="Prachi - Full Stack Developer" 
                     className="w-full h-full object-cover"
                   />
