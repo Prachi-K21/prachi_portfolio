@@ -10,7 +10,7 @@ const Projects: React.FC = () => {
       fullDescription: "Developed an intelligent medicine reminder system using AI to help patients manage their medication schedules with smart notifications and adherence tracking.",
       image: process.env.PUBLIC_URL + "/pillpilot.png",
       techStack: ["Python", "TensorFlow", "React", "Node.js", "MongoDB"],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Prachi-K21",
       liveUrl: "https://example.com",
       featured: true,
       category: "ai"
@@ -21,7 +21,7 @@ const Projects: React.FC = () => {
       fullDescription: "Built a comprehensive expense tracking system in Java with features for budget management, expense categorization, and financial analytics.",
       image: process.env.PUBLIC_URL + "/personal-tracker.png",
       techStack: ["Java", "Spring Boot", "MySQL", "React", "Chart.js"],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Prachi-K21",
       liveUrl: "https://example.com",
       featured: false,
       category: "web"
@@ -32,7 +32,7 @@ const Projects: React.FC = () => {
       fullDescription: "Developed an innovative IoT solution for automated textile defect detection and repair using computer vision and robotic mechanisms with comprehensive data recording.",
       image: process.env.PUBLIC_URL + "/textile.png",
       techStack: ["Python", "TensorFlow", "IoT", "Computer Vision", "Arduino"],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Prachi-K21",
       liveUrl: "https://example.com",
       featured: true,
       category: "iot"
@@ -43,7 +43,7 @@ const Projects: React.FC = () => {
       fullDescription: "Built a predictive model using machine learning algorithms to estimate car prices based on various features like make, model, year, and condition.",
       image: process.env.PUBLIC_URL + "/car.png",
       techStack: ["Python", "Scikit-learn", "Pandas", "NumPy", "Flask"],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Prachi-K21",
       liveUrl: "https://example.com",
       featured: false,
       category: "ai"
@@ -54,7 +54,7 @@ const Projects: React.FC = () => {
       fullDescription: "Developed a comprehensive educational website for Creative Hands Academy with course management, student enrollment, and interactive learning features. Sponsored project with real-world deployment.",
       image: process.env.PUBLIC_URL + "/academy.png",
       techStack: ["React", "Node.js", "MongoDB", "Express", "JWT"],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Prachi-K21",
       liveUrl: "https://example.com",
       featured: true,
       category: "web"
