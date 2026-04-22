@@ -27,7 +27,7 @@ const App: React.FC = () => {
       {/* Footer */}
       <footer className="py-8 glass text-center text-gray-400 border-t border-gray-800">
         <div className="container mx-auto px-4">
-          <p className="font-sora">&copy; 2024 Prachi. All rights reserved.</p>
+          <p className="font-sora">@2026 Prachi</p>
         </div>
       </footer>
     </div>
