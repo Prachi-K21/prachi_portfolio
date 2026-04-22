@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prachi_portfolio/static/css/main.deb3844f.css",
-    "main.js": "/prachi_portfolio/static/js/main.92838d9e.js",
+    "main.css": "/prachi_portfolio/static/css/main.2e45c105.css",
+    "main.js": "/prachi_portfolio/static/js/main.57ad4bdb.js",
     "static/js/453.635f5f07.chunk.js": "/prachi_portfolio/static/js/453.635f5f07.chunk.js",
     "static/media/inter-latin-ext-600-normal.woff": "/prachi_portfolio/static/media/inter-latin-ext-600-normal.4d0d5017d71ea1750fc1.woff",
     "static/media/inter-latin-ext-400-normal.woff": "/prachi_portfolio/static/media/inter-latin-ext-400-normal.c616205185f0d3677df9.woff",
@@ -44,12 +44,12 @@
     "static/media/inter-vietnamese-600-normal.woff2": "/prachi_portfolio/static/media/inter-vietnamese-600-normal.6984cf5e8583fac83be3.woff2",
     "static/media/inter-vietnamese-400-normal.woff2": "/prachi_portfolio/static/media/inter-vietnamese-400-normal.44c9df135eec470b0ab6.woff2",
     "index.html": "/prachi_portfolio/index.html",
-    "main.deb3844f.css.map": "/prachi_portfolio/static/css/main.deb3844f.css.map",
-    "main.92838d9e.js.map": "/prachi_portfolio/static/js/main.92838d9e.js.map",
+    "main.2e45c105.css.map": "/prachi_portfolio/static/css/main.2e45c105.css.map",
+    "main.57ad4bdb.js.map": "/prachi_portfolio/static/js/main.57ad4bdb.js.map",
     "453.635f5f07.chunk.js.map": "/prachi_portfolio/static/js/453.635f5f07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.deb3844f.css",
-    "static/js/main.92838d9e.js"
+    "static/css/main.2e45c105.css",
+    "static/js/main.57ad4bdb.js"
   ]
 }
