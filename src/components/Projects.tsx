@@ -52,7 +52,7 @@ const Projects: React.FC = () => {
       title: "Creative Hands Academy Website",
       shortDescription: "Sponsored educational platform website",
       fullDescription: "Developed a comprehensive educational website for Creative Hands Academy with course management, student enrollment, and interactive learning features. Sponsored project with real-world deployment.",
-      image: process.env.PUBLIC_URL + "/weather.png",
+      image: process.env.PUBLIC_URL + "/academy.png",
       techStack: ["React", "Node.js", "MongoDB", "Express", "JWT"],
       githubUrl: "https://github.com",
       liveUrl: "https://example.com",
