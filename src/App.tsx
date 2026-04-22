@@ -24,7 +24,7 @@ const App: React.FC = () => {
       <Achievements />
       <Contact />
       
-      {/* Footer */}
+      {/* Footer - Updated @2026 Prachi */}
       <footer className="py-8 glass text-center text-gray-400 border-t border-gray-800">
         <div className="container mx-auto px-4">
           <p className="font-sora">@2026 Prachi</p>
